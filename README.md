@@ -27,14 +27,13 @@ Passionate about building high-performance, scalable web applications with clean
 
 
 ## 📫 **Let's Connect**
-- LinkedIn: [AW 🐱‍👤 91](https://linkedin.com/in/wajdi-abderrahim
-)
-- Portfolio: [Your Website](https://)
+- LinkedIn: [AW 🐱‍👤 91](https://linkedin.com/in/wajdi-abderrahim)
 - Email: abderrahimwajdi@gmail.com
 
-🗺️⁀જ✈︎ # 🇹🇳 Visit Tunisia 🏝️🍹⛱️🌞 🌊 🐫
 
-![Visit Tunisia Banner](https://upload.wikimedia.org/wikipedia/commons/6/6c/Tunisia_banner.jpg)
+## 🗺️⁀જ✈︎ # 🇹🇳 Visit Tunisia 🏝️🍹⛱️🌞 🌊 🐫
+
+![Visit Tunisia Banner]([https://upload.wikimedia.org/wikipedia/commons/6/6c/Tunisia_banner.jpg](https://commons.wikimedia.org/wiki/File:Tunisie-cafe-des-delices-56ffeb26b63f29fgc614e8484a9fcc3c.jpg))
 
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)](#)
 [![Support Tunisia](https://img.shields.io/badge/Support-Tunisia-red)](#)
