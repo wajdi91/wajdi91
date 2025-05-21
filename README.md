@@ -34,7 +34,11 @@ Passionate about building high-performance, scalable web applications with clean
 ## 🗺️⁀જ✈︎ # 🇹🇳 Visit Tunisia 🏝️🍹⛱️🌞 🌊 🐫
 
 ![ Visit Tunisia](/images/tunisie-cafe-des-delices-56ffeb26b63f29fgc614e8484a9fcc3c.jpg)
+### Découvrez la Tunisie  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wajdi91/wajdi91/main/tunisie-cafe-des-delices-56ffeb26b63f29fgc614e8484a9fcc3c.jpg" alt="Café des Délices, Sidi Bou Saïd" width="80%"/>
+</p>
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)](#)
 [![Support Tunisia](https://img.shields.io/badge/Support-Tunisia-red)](#)
 [![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/visit-tunisia?style=social)](#)
