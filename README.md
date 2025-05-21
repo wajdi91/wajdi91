@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Wajdi 👋 🐱‍👤 
 
 🚀 **Software Developer** | **MERN Stack** | **PHP** | **Python**  
 Passionate about building high-performance, scalable web applications with clean code and modern tools.
@@ -25,18 +25,10 @@ Passionate about building high-performance, scalable web applications with clean
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
-## 🌟 **Featured Projects**
-1. **[Project Name]** – A [brief description].  
-   🔹 *Tech: React, Node.js, MongoDB*  
-   🔹 [Live Demo](https://) | [GitHub Repo](https://)
-
-2. **[Project Name]** – A [brief description].  
-   🔹 *Tech: Python/Django, PostgreSQL*  
-   🔹 [Live Demo](https://) | [GitHub Repo](https://)
 
 ## 📫 **Let's Connect**
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourname)
+- LinkedIn: [AW 🐱‍👤 91](https://linkedin.com/in/wajdi-abderrahim
+)
 - Portfolio: [Your Website](https://)
-- Email: your.email@example.com
+- Email: abderrahimwajdi@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
