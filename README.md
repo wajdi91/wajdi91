@@ -1,3 +1,8 @@
+## 🗺️⁀જ✈︎ # 🇹🇳 Visit Tunisia 🏝️🍹⛱️🌞 🌊 🐫 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wajdi91/wajdi91/main/tunisie-cafe-des-delices-56ffeb26b63f29fgc614e8484a9fcc3c.jpg" alt="Café des Délices, Sidi Bou Saïd" width="100%"/>
+</p>
+
 #                                         Hi, I'm Wajdi 👋 🐱‍👤 
 
 🚀 **Software Developer** | **MERN Stack** | **PHP** | **Python**  
@@ -31,11 +36,5 @@ Passionate about building high-performance, scalable web applications with clean
 - Email: abderrahimwajdi@gmail.com
 
 
-## 🗺️⁀જ✈︎ # 🇹🇳 Visit Tunisia 🏝️🍹⛱️🌞 🌊 🐫 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wajdi91/wajdi91/main/tunisie-cafe-des-delices-56ffeb26b63f29fgc614e8484a9fcc3c.jpg" alt="Café des Délices, Sidi Bou Saïd" width="100%"/>
-</p>
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)](#)
-[![Support Tunisia](https://img.shields.io/badge/Support-Tunisia-red)](#)
-[![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/visit-tunisia?style=social)](#)
+
 
